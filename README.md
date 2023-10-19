@@ -3,7 +3,7 @@
 I am a first-year Phd student at University of Chicago.
 
 -  I am studying Computational Neuroscience
-- Please feel free to shoot me an e-mail at yxu103@u.rochester.edu
+- Please feel free to shoot me an e-mail at dracoxu@uchicago.edu
 -  Here is my personal homepage! [Homepage](https://dracooxu.github.io/)
 
 
