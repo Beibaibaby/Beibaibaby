@@ -1,4 +1,4 @@
-### I am [Draco]([https://www.yun-long-xu.com](https://sites.google.com/u.rochester.edu/dracoxu/home])
+### I am [Draco](https://sites.google.com/u.rochester.edu/dracoxu/home)
 
 I am a first-year Phd student at University of Chicago.
 
