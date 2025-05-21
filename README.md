@@ -1,6 +1,6 @@
 ### I am [Draco](https://sites.google.com/u.rochester.edu/dracoxu/home)
 
-I am a first-year Phd student at University of Chicago.
+I am a second-year Phd student at University of Chicago.
 
 -  I am studying Computational Neuroscience
 - Please feel free to shoot me an e-mail at dracoxu@uchicago.edu
